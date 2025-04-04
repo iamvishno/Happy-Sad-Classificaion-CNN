@@ -36,8 +36,8 @@ streamlit run app.py
 ## 📸 Example Results  
 | You Give This | AI Says |  
 |--------------|---------|  
-| ![Happy Person] | "Happy! 😄" |  
-| ![Sad Person]   | "Sad 😞" |  
+| <img src="images/happy.jpg" alt="Happy Face" width="200" height="200"> | "Happy! 😄" |  
+| <img src="images/sad.jpg" alt="Happy Face" width="200" height="200">  | "Sad 😞" |  
 
 ## Cool Uses  
 - Check your selfie mood  
